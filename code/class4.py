@@ -22,7 +22,7 @@ kernel4 = np.array([[-1, -1, 1],
                     [2, 1, -2]], dtype=np.float32) / 9.0
 
 
-img = cv2.imread('../images/img.jpg', cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('../images/img5.jpg', cv2.IMREAD_GRAYSCALE)
 # img = cv2.cvtColor(img, cv2.GRAY)
 img_filter1 = cv2.filter2D(img, -1, kernel)
 img_filter2 = cv2.filter2D(img, -1, kernel2)
