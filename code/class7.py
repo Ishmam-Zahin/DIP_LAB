@@ -18,5 +18,5 @@ plt.title("Canny Edge Detection")
 plt.axis("off")
 
 plt.tight_layout()
-plt.savefig('../images/hw8.png')
-# plt.show()
+# plt.savefig('../images/hw8.png')
+plt.show()
