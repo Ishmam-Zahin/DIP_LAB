@@ -1,4 +1,4 @@
 *.Identifier
 *.identifier
-env
-.vscode
+.vscode/
+.venv/
