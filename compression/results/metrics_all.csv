@@ -1,0 +1,101 @@
+Image,Method,Ratio,MSE,PSNR,SSIM
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,RLE,0.50,0.00,inf,1.0000
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,Palette 256,9.00,42.66,31.83,0.9109
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,RGB332,3.00,774.41,19.24,0.7311
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,DCT,1.41,206.50,24.98,0.7648
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,DWT,31.72,57.70,30.52,0.8635
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,8-bit,3.00,0.00,inf,1.0000
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,5-bit,4.80,18.05,35.57,0.9528
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,4-bit,6.00,79.39,29.13,0.8798
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,2-bit,12.00,1521.48,16.31,0.6491
+closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head.jpg,1-bit,24.00,6353.35,10.10,0.4251
+rgb_flower1.png,RLE,0.50,0.00,inf,1.0000
+rgb_flower1.png,Palette 256,8.99,24.73,34.20,0.9423
+rgb_flower1.png,RGB332,3.00,437.57,21.72,0.6819
+rgb_flower1.png,DCT,1.41,159.74,26.10,0.6737
+rgb_flower1.png,DWT,29.44,18.51,35.46,0.9257
+rgb_flower1.png,8-bit,3.00,0.00,inf,1.0000
+rgb_flower1.png,5-bit,4.80,16.17,36.04,0.9577
+rgb_flower1.png,4-bit,6.00,71.19,29.61,0.8783
+rgb_flower1.png,2-bit,12.00,1079.18,17.80,0.5398
+rgb_flower1.png,1-bit,24.00,4134.47,11.97,0.3045
+lena.png,RLE,1.65,0.00,inf,1.0000
+lena.png,Palette 256,8.90,0.08,58.92,0.9998
+lena.png,RGB332,3.00,665.34,19.90,0.7459
+lena.png,DCT,1.41,339.52,22.82,0.5998
+lena.png,DWT,16.05,113.05,27.60,0.7860
+lena.png,8-bit,3.00,0.00,inf,1.0000
+lena.png,5-bit,4.80,17.41,35.72,0.9707
+lena.png,4-bit,6.00,78.60,29.18,0.9071
+lena.png,2-bit,12.00,1345.96,16.84,0.6233
+lena.png,1-bit,24.00,4802.43,11.32,0.3654
+rgb6.png,RLE,0.50,0.00,inf,1.0000
+rgb6.png,Palette 256,9.00,44.15,31.68,0.9339
+rgb6.png,RGB332,3.00,582.13,20.48,0.7643
+rgb6.png,DCT,1.41,449.64,21.60,0.6821
+rgb6.png,DWT,24.09,297.88,23.39,0.7118
+rgb6.png,8-bit,3.00,0.00,inf,1.0000
+rgb6.png,5-bit,4.80,16.90,35.85,0.9641
+rgb6.png,4-bit,6.00,75.78,29.34,0.9045
+rgb6.png,2-bit,12.00,1135.65,17.58,0.6829
+rgb6.png,1-bit,24.00,4182.18,11.92,0.4335
+rgb7.png,RLE,0.50,0.00,inf,1.0000
+rgb7.png,Palette 256,8.87,36.13,32.55,0.9553
+rgb7.png,RGB332,3.00,518.68,20.98,0.6844
+rgb7.png,DCT,1.40,417.82,21.92,0.5857
+rgb7.png,DWT,16.16,257.09,24.03,0.6981
+rgb7.png,8-bit,3.00,0.00,inf,1.0000
+rgb7.png,5-bit,4.80,16.41,35.98,0.9710
+rgb7.png,4-bit,6.00,71.00,29.62,0.9128
+rgb7.png,2-bit,12.00,1108.60,17.68,0.5467
+rgb7.png,1-bit,24.00,4227.74,11.87,0.2576
+gray_4.png,RLE,1.69,0.00,inf,1.0000
+gray_4.png,Palette 256,8.80,0.23,54.43,0.9997
+gray_4.png,RGB332,3.00,718.54,19.57,0.7251
+gray_4.png,DCT,1.40,466.90,21.44,0.5651
+gray_4.png,DWT,17.53,752.15,19.37,0.5321
+gray_4.png,8-bit,3.00,0.00,inf,1.0000
+gray_4.png,5-bit,4.80,18.48,35.46,0.9768
+gray_4.png,4-bit,6.00,82.29,28.98,0.9246
+gray_4.png,2-bit,12.00,1435.14,16.56,0.5736
+gray_4.png,1-bit,24.00,5732.25,10.55,0.2153
+man.png,RLE,2.11,0.00,inf,1.0000
+man.png,Palette 256,8.90,0.49,51.27,0.9998
+man.png,RGB332,3.00,611.34,20.27,0.7215
+man.png,DCT,1.41,389.42,22.23,0.5965
+man.png,DWT,18.87,154.32,26.25,0.7660
+man.png,8-bit,3.00,0.00,inf,1.0000
+man.png,5-bit,4.80,17.81,35.62,0.9566
+man.png,4-bit,6.00,80.06,29.10,0.8374
+man.png,2-bit,12.00,1259.98,17.13,0.6662
+man.png,1-bit,24.00,2937.59,13.45,0.5393
+piper.png,RLE,0.50,0.00,inf,1.0000
+piper.png,Palette 256,8.87,27.37,33.76,0.9409
+piper.png,RGB332,3.00,457.13,21.53,0.5486
+piper.png,DCT,1.41,318.44,23.10,0.5951
+piper.png,DWT,20.66,150.39,26.36,0.7379
+piper.png,8-bit,3.00,0.00,inf,1.0000
+piper.png,5-bit,4.80,18.98,35.35,0.9638
+piper.png,4-bit,6.00,91.81,28.50,0.8380
+piper.png,2-bit,12.00,1218.84,17.27,0.4347
+piper.png,1-bit,24.00,4224.28,11.87,0.2580
+canny_sample.png,RLE,1.98,0.00,inf,1.0000
+canny_sample.png,Palette 256,8.93,0.42,51.91,0.9997
+canny_sample.png,RGB332,3.00,615.51,20.24,0.6980
+canny_sample.png,DCT,1.41,327.46,22.98,0.5959
+canny_sample.png,DWT,29.44,247.50,24.20,0.7190
+canny_sample.png,8-bit,3.00,0.00,inf,1.0000
+canny_sample.png,5-bit,4.80,17.74,35.64,0.9541
+canny_sample.png,4-bit,6.00,81.40,29.02,0.8119
+canny_sample.png,2-bit,12.00,1271.24,17.09,0.6442
+canny_sample.png,1-bit,24.00,3006.54,13.35,0.5171
+gray_1.png,RLE,1.69,0.00,inf,1.0000
+gray_1.png,Palette 256,8.98,0.13,56.88,0.9998
+gray_1.png,RGB332,3.00,611.06,20.27,0.6682
+gray_1.png,DCT,1.41,612.44,20.26,0.5219
+gray_1.png,DWT,30.23,441.12,21.69,0.6503
+gray_1.png,8-bit,3.00,0.00,inf,1.0000
+gray_1.png,5-bit,4.80,17.70,35.65,0.9594
+gray_1.png,4-bit,6.00,77.48,29.24,0.8830
+gray_1.png,2-bit,12.00,1203.61,17.33,0.5219
+gray_1.png,1-bit,24.00,4201.08,11.90,0.2495
