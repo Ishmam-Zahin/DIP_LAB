@@ -2,3 +2,4 @@
 *.identifier
 .vscode/
 .venv/
+report/
